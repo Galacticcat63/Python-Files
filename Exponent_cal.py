@@ -19,9 +19,9 @@ if __name__ == "__main__":
     # Call the exponent_calculator function
     result_value = exponent_calculator(base_input, power_input)
 
-    # Your existing script code here
 
-    # Add this line at the end
+
+    # To run this .py file on terminal without the terminal closing instantly
     import time
     time.sleep(120)
     input("Press Enter to exit...")
